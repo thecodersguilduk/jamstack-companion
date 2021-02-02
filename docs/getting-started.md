@@ -1,21 +1,47 @@
 ---
-title: Getting started
-date: 2018-09-15 07:42:34
+title: Session 1 - Induction
+date: 2018-09-15T07:42:34.000+00:00
 slug: getting-started
+
 ---
+## **Description**
 
-## What is Jamdocs
+This session covers what the learners should expect to be learning about on this course.
 
-Jamdocs is a documentation theme for Gridsome, built to spin up quick, beautiful and static documentation sites fast without hassle. Since there is no theming system for Gridsome yet, Jamdocs comes with Gridsome, plug-ins and packages as dependencies.
+## **Why this is important**
 
-## Local installation
+This session will let the learners get a feel for the upcoming content they’ll be learning about on the course. They will be able to see the tutors who may be covering some of their lessons and learn a little bit about the coders guild.
 
-Even though Jamdocs is so simple, you dont really need to set it up localy (you could just fork it on github to edit styles and md-files) - if you want to change it up a bit I recommend setting up localy for a better developer experience.
+## **Outcomes**
 
-To set up a new instance of Jamdocs, and start developing just clone the project from Github like, go to the directory and run gridsome:
+Following this training you will be able to: Know what to expect for the upcoming weeks.
 
-```bash
-git clone https://github.com/samuelhorn/jamdocs project-name
-cd project-name
-gridsome develop
-```
+## **Learner Requirements**
+
+An understanding of HTML and CSS
+
+## **Outline**
+
+1. Intro
+2. Compliance and housekeeping
+3. About the course
+4. Outcomes
+5. Tools we’ll use
+6. Meet the trainers
+7. What’s next
+
+## **Tasks**
+
+### **Mandatory**
+
+1. Sign up to freeCodeCamp
+2. Create/ update a github profile
+3. Join the slack channel
+
+### **Additional**
+
+N/A
+
+## **Resources / Reference**
+
+N/A
