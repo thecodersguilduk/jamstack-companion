@@ -6,7 +6,7 @@ slug: sessions
 ---
 ## Introduction
 
-* Course Intro 
+* Course Intro
 * Intro to Git
 * Semantics and Accessibility
 
@@ -20,11 +20,8 @@ slug: sessions
 
 ## Problem Solving With JS
 
-* Intro to JS - Programming Concepts
-* Intro to JS - Functions and Control Flow
-* Functions and Control Flow - Practical
+* Programming Concepts
+* Functions and Control Flow
 * Pseudocode & Comments
 * Intro to JS - Loops, Arrays, and Objects
-* Loops arrays and objects - Practical
 * Intro to JS - Intro to the DOM
-* The DOM Practical
