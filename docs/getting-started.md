@@ -1,5 +1,5 @@
 ---
-title: Session 1 - Induction
+title: 01 - Induction
 date: 2021-02-03
 slug: induction
 
