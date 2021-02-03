@@ -1,17 +1,21 @@
 {
   "sidebar": [
     {
-      "section": "",
-      "topics": ""
-    },
-    {
       "section": "Introduction",
       "topics": [
         {
-          "title": "Course Intro",
-          "slug": "overview"
+          "title": "Induction",
+          "slug": "induction"
+        },
+        {
+          "title": "Overview",
+          "slug": "sessions"
         }
       ]
+    },
+    {
+      "section": "",
+      "topics": ""
     },
     {
       "section": "Setup",
