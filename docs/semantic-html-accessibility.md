@@ -1,5 +1,5 @@
 ---
-title: 03 - Semantic HTML & Accessibility
+title: Semantic HTML & Accessibility
 date: 2021-02-03
 slug: semantic-html
 
