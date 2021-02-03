@@ -1,7 +1,7 @@
 ---
 title: Overview
 date: 2021-02-03
-slug: sessions
+slug: overview
 
 ---
 ## Introduction
