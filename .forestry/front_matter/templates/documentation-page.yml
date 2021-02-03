@@ -16,5 +16,6 @@ fields:
   label: slug
 pages:
 - docs/04-frameworks.md
+- docs/05-static-site-generators.md
 - docs/editing-in-forestry.md
 - docs/semantic-html-accessibility.md
