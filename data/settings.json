@@ -22,19 +22,52 @@
       ]
     },
     {
-      "section": "",
-      "topics": ""
-    },
-    {
-      "section": "Setup",
+      "section": "The JAMStack",
       "topics": [
         {
-          "title": "Theme configuration",
-          "slug": "theme-configuration"
+          "title": "Form Processing",
+          "slug": "form-processing"
         },
         {
-          "title": "Forestry CMS",
-          "slug": "forestry-cms"
+          "title": "Content Management",
+          "slug": "content-management"
+        },
+        {
+          "title": "Working With Git",
+          "slug": "git-workflows"
+        },
+        {
+          "title": "Static Site Generators",
+          "slug": "ssg"
+        },
+        {
+          "title": "Frameworks",
+          "slug": "frameworks"
+        }
+      ]
+    },
+    {
+      "section": "Problem Solving With JS",
+      "topics": [
+        {
+          "title": "The DOM",
+          "slug": "the-dom"
+        },
+        {
+          "title": "Loops, Arrays, and Objects",
+          "slug": "loops-arrays-objects"
+        },
+        {
+          "title": "Pseudocode & Comments",
+          "slug": "pseudocode"
+        },
+        {
+          "title": "Programming Concepts",
+          "slug": "programming-concepts"
+        },
+        {
+          "title": "Functions and Control Flow",
+          "slug": "functions-control-flow"
         }
       ]
     }
