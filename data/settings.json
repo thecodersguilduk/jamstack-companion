@@ -4,6 +4,14 @@
       "section": "Introduction",
       "topics": [
         {
+          "title": "",
+          "slug": ""
+        },
+        {
+          "title": "Introduction to source control (Git)",
+          "slug": "git"
+        },
+        {
           "title": "Induction",
           "slug": "induction"
         },
