@@ -1,7 +1,7 @@
 ---
-title: Forestry CMS
-date: 2020-01-02
-slug: forestry-cms
+title: 00 Overview
+date: 2021-02-03
+slug: sessions
 
 ---
 ## Import starter
