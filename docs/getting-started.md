@@ -1,7 +1,7 @@
 ---
 title: Session 1 - Induction
-date: 2018-09-15T07:42:34.000+00:00
-slug: getting-started
+date: 2021-02-03
+slug: induction
 
 ---
 ## **Description**
