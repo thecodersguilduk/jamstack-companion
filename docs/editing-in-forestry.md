@@ -23,5 +23,5 @@ slug: sessions
 * Programming Concepts
 * Functions and Control Flow
 * Pseudocode & Comments
-* Intro to JS - Loops, Arrays, and Objects
-* Intro to JS - Intro to the DOM
+* Loops, Arrays, and Objects
+* The DOM
