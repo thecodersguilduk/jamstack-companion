@@ -18,5 +18,6 @@ pages:
 - docs/04-frameworks.md
 - docs/05-static-site-generators.md
 - docs/06-working-with-git.md
+- docs/07-form-processing.md
 - docs/editing-in-forestry.md
 - docs/semantic-html-accessibility.md
