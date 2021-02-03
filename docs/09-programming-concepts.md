@@ -1,5 +1,5 @@
 ---
-title: '09 - Programming Concepts'
+title: Programming Concepts
 date: 2021-02-03
 slug: programming-concepts
 
