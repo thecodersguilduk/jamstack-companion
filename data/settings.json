@@ -4,24 +4,24 @@
       "section": "Introduction",
       "topics": [
         {
-          "title": "Frameworks",
-          "slug": "frameworks"
-        },
-        {
-          "title": "Semantic HTML & Accessibility",
-          "slug": "semantic-html"
-        },
-        {
-          "title": "Introduction to source control (Git)",
-          "slug": "git"
+          "title": "Overview",
+          "slug": "sessions"
         },
         {
           "title": "Induction",
           "slug": "induction"
         },
         {
-          "title": "Overview",
-          "slug": "sessions"
+          "title": "Introduction to source control (Git)",
+          "slug": "git"
+        },
+        {
+          "title": "Semantic HTML & Accessibility",
+          "slug": "semantic-html"
+        },
+        {
+          "title": "Frameworks",
+          "slug": "frameworks"
         }
       ]
     },
