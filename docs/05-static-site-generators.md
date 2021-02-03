@@ -1,5 +1,5 @@
 ---
-title: 05 Static Site Generators
+title: Static Site Generators
 date: 2021-02-03
 slug: ssg
 
