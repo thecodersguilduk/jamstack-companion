@@ -1,5 +1,5 @@
 ---
-title: 06 - Working with git
+title: Working with git
 date: 2021-02-03
 slug: git-workflows
 
