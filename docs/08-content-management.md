@@ -1,5 +1,5 @@
 ---
-title: '08 - Content Management'
+title: Content Management
 date: 2021-02-03
 slug: content-management
 
