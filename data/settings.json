@@ -4,22 +4,36 @@
       "section": "Introduction",
       "topics": [
         {
-          "title": "Getting started",
-          "slug": "getting-started"
+          "title": "Overview",
+          "slug": "sessions"
+        },
+        {
+          "title": "Induction",
+          "slug": "induction"
+        },
+        {
+          "title": "Introduction to source control (Git)",
+          "slug": "git"
+        },
+        {
+          "title": "Semantic HTML & Accessibility",
+          "slug": "semantic-html"
+        }
+      ]
+    },
+    {
+      "section": "The JAMStack",
+      "topics": [
+        {
+          "title": "",
+          "slug": ""
         }
       ]
     },
     {
       "section": "Setup",
       "topics": [
-        {
-          "title": "Theme configuration",
-          "slug": "theme-configuration"
-        },
-        {
-          "title": "Forestry CMS",
-          "slug": "forestry-cms"
-        }
+
       ]
     }
   ]

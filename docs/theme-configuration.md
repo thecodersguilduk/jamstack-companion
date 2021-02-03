@@ -1,5 +1,5 @@
 ---
-title: Session 2 - Introduction to source control (Git)
+title: Introduction to source control (Git)
 date: 2021-02-02
 slug: git
 
