@@ -1,5 +1,5 @@
 ---
-title: 10 - Functions and Control Flow
+title: Functions and Control Flow
 date: 2021-02-03
 slug: functions-control-flow
 
