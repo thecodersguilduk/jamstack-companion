@@ -1,5 +1,5 @@
 ---
-title: 04 - Frameworks
+title: Frameworks
 date: 2021-02-03
 slug: frameworks
 
