@@ -1,5 +1,5 @@
 ---
-title: 00 Overview
+title: Overview
 date: 2021-02-03
 slug: sessions
 
