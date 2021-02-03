@@ -4,8 +4,8 @@
       "section": "Introduction",
       "topics": [
         {
-          "title": "",
-          "slug": ""
+          "title": "Semantic HTML & Accessibility",
+          "slug": "semantic-html"
         },
         {
           "title": "Introduction to source control (Git)",
