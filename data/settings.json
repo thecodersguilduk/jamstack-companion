@@ -4,6 +4,10 @@
       "section": "Resources",
       "topics": [
         {
+          "title": "Interview Questions",
+          "slug": "interview-questions"
+        },
+        {
           "title": "freeCodeCamp",
           "slug": "freecodecamp"
         }
