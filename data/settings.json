@@ -1,19 +1,6 @@
 {
   "sidebar": [
     {
-      "section": "Resources",
-      "topics": [
-        {
-          "title": "Interview Questions",
-          "slug": "interview-questions"
-        },
-        {
-          "title": "freeCodeCamp",
-          "slug": "freecodecamp"
-        }
-      ]
-    },
-    {
       "section": "Info",
       "topics": [
         {
@@ -21,20 +8,8 @@
           "slug": "about"
         },
         {
-          "title": "Tools ",
-          "slug": "tools"
-        },
-        {
-          "title": "Building your portfolio",
-          "slug": "portfolio"
-        },
-        {
           "title": "Help and Feedback",
           "slug": "feedback"
-        },
-        {
-          "title": "Useful Links",
-          "slug": "links"
         }
       ]
     },
@@ -73,6 +48,19 @@
         {
           "title": "Project Ideas",
           "slug": "projects"
+        }
+      ]
+    },
+    {
+      "section": "Resources",
+      "topics": [
+        {
+          "title": "Interview Questions",
+          "slug": "interview-questions"
+        },
+        {
+          "title": "freeCodeCamp",
+          "slug": "freecodecamp"
         }
       ]
     }
