@@ -1,6 +1,15 @@
 {
   "sidebar": [
     {
+      "section": "Resources",
+      "topics": [
+        {
+          "title": "freeCodeCamp",
+          "slug": "freecodecamp"
+        }
+      ]
+    },
+    {
       "section": "Info",
       "topics": [
         {
