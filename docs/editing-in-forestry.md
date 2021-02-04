@@ -1,7 +1,7 @@
 ---
-title: Overview
+title: About The Course
 date: 2021-02-03
-slug: overview
+slug: About
 
 ---
 ## Introduction
@@ -9,10 +9,10 @@ slug: overview
 * Course Intro
 * Intro to Git
 * Semantics and Accessibility
+* Frameworks
 
 ## The JAMStack
 
-* Frameworks
 * Static Site Builders
 * Working With Git
 * Form Processing
