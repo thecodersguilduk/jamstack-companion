@@ -15,6 +15,5 @@ fields:
   name: slug
   label: slug
 pages:
-- docs/05-static-site-generators.md
 - docs/06-working-with-git.md
 - docs/editing-in-forestry.md
