@@ -1,50 +1,29 @@
 ---
-title: Working with git
+title: Help & Feedback
 date: 2021-02-03
-slug: git-workflows
+slug: feedback
 
 ---
-## **Description**
+## Where to get help
 
-This session will go into more information about how to use git and the advantages of using git. We will be making edits to the static site we created in the previous session. To do so this will require the users to download the repo created to their machines.
+Ask your peers/trainer on the slack channel
 
-## **Why this is important**
+DM your trainer on Slack
 
-This session will expose the learners to more information about git and how it works. This is very good practise as they will be fetching a repo onto their machine and making changes and uploading them via git. This is turn will update the static site on netlify which will also expose the students to a complete deployment process
+DM Naomi on Slack
 
-## **Outcomes**
+[learners@thecodersguild.org.uk](mailto:learners@thecodersguild.org.uk)
 
-Following this training you will be able to: Understand the whole process for static site generation as a continuation from the last session. The students will be able to explain the process of downloading a repo, making a new branch, changing the code, committing the changes, merging the branch and pushing to origin.
+**0113 460 1024**
 
-## **Learner Requirements**
+## Feedback
 
-VS code
+Feedback is REALLY important to us - we have a really short feedback loop which is essential for us to get better and stay current in our ever changing world. Please let us know what you think.
 
-Github desktop
+You can give us feedback at any time at [tcg.fyi/feedback ]()
 
-## **Outline**
+At the end of every session we collect anonymous feedback on the JamBoard (link will be pinned in your cohort slack channel)
 
-1. Review of git
-2. Cloning
-3. Forking
-4. Pull Requests
-5. Code reviews
-6. Tasks
+At points during the course someone from the guild will contact you to check in and get feedback from you.
 
-## **Tasks**
-
-### **Mandatory**
-
-N/A
-
-### **Additional**
-
-N/A
-
-## **Resources / Reference**
-
-N/A
-
-## **Interview Questions**
-
-N/A
+At the end of the course we will ask you to complete a feedback form.
