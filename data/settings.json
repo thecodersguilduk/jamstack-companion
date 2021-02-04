@@ -25,20 +25,20 @@
           "slug": "about"
         },
         {
-          "title": "Static Site Generators",
-          "slug": "ssg"
+          "title": "Tools ",
+          "slug": "tools"
         },
         {
-          "title": "Working With Git",
-          "slug": "git-workflows"
+          "title": "Building your portfolio",
+          "slug": "portfolio"
         },
         {
-          "title": "Form Processing",
-          "slug": "form-processing"
+          "title": "Help and Feedback",
+          "slug": "feedback"
         },
         {
-          "title": "Content Management",
-          "slug": "content-management"
+          "title": "Useful Links",
+          "slug": "links"
         }
       ]
     },
