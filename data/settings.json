@@ -1,11 +1,11 @@
 {
   "sidebar": [
     {
-      "section": "Introduction",
+      "section": "Lesson Plans",
       "topics": [
         {
-          "title": "Overview",
-          "slug": "sessions"
+          "title": "Fundamentals ",
+          "slug": "fundamentals "
         },
         {
           "title": "Induction",
