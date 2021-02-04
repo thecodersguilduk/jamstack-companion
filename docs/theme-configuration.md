@@ -4,15 +4,15 @@ date: 2021-02-02
 slug: git
 
 ---
-## **Description**
+## Description
 
 This session covers the concepts of using source control, specifically git. The learners will be exposed to github using github desktop and the CLI to demonstrate the process of using git.
 
-## **Why this is important**
+## Why this is important
 
 Git is one of the most important tools a web developer can use. We want to introduce the learners to git as early in the course as possible as we will be using git when we complete challenges in the upcoming lessons. This is to help people get used to the concept and hopefully introduce git to their workflow if it isn’t already
 
-## **Outcomes**
+## Outcomes
 
 Following this training you will be able to: Use git at a basic level.
 
