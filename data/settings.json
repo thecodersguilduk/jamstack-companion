@@ -1,23 +1,6 @@
 {
   "sidebar": [
     {
-      "section": "Lesson Plans",
-      "topics": [
-        {
-          "title": "Fundamentals ",
-          "slug": "fundamentals "
-        },
-        {
-          "title": "The JAMStack",
-          "slug": "jamstack"
-        },
-        {
-          "title": "Solving Problems with JavaScript",
-          "slug": "javascript"
-        }
-      ]
-    },
-    {
       "section": "Info",
       "topics": [
         {
@@ -43,23 +26,40 @@
       ]
     },
     {
-      "section": "Problem Solving With JS",
+      "section": "Lesson Plans",
       "topics": [
         {
-          "title": "The DOM",
-          "slug": "the-dom"
+          "title": "Fundamentals ",
+          "slug": "fundamentals "
         },
         {
-          "title": "Loops, Arrays, and Objects",
-          "slug": "loops-arrays-objects"
+          "title": "The JAMStack",
+          "slug": "jamstack"
         },
         {
-          "title": "Pseudocode & Comments",
-          "slug": "pseudocode"
+          "title": "Solving Problems with JavaScript",
+          "slug": "javascript"
+        }
+      ]
+    },
+    {
+      "section": "Challenges",
+      "topics": [
+        {
+          "title": "Introduction",
+          "slug": "challenges"
         },
         {
-          "title": "Programming Concepts",
-          "slug": "programming-concepts"
+          "title": "HTML & CSS Challenges",
+          "slug": "html-css"
+        },
+        {
+          "title": "JavaScript Challenges",
+          "slug": "javascript-challenges"
+        },
+        {
+          "title": "Project Ideas",
+          "slug": "projects"
         },
         {
           "title": "Functions and Control Flow",
