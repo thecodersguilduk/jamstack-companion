@@ -14,19 +14,15 @@
         {
           "title": "Solving Problems with JavaScript",
           "slug": "javascript"
-        },
-        {
-          "title": "Semantic HTML & Accessibility",
-          "slug": "semantic-html"
         }
       ]
     },
     {
-      "section": "The JAMStack",
+      "section": "Info",
       "topics": [
         {
-          "title": "Frameworks",
-          "slug": "frameworks"
+          "title": "About the Course",
+          "slug": "about"
         },
         {
           "title": "Static Site Generators",
