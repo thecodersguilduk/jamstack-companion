@@ -46,7 +46,10 @@ N/A
 
 ### Resources / Reference
 
-[https://jamstack.org/generators/](https://jamstack.org/generators/ "https://jamstack.org/generators/")
+* [https://jamstack.org/generators/](https://jamstack.org/generators/ "https://jamstack.org/generators/")
+* [Learn JAMstack with a free 3.5 hour video of demos and examples](https://www.netlify.com/blog/2020/03/12/learn-jamstack-with-a-free-3.5-hour-video-of-demos-and-examples/)
+* [11ty Tutorial level 1](https://www.zachleat.com/web/eleventy-tutorial-level-1/)
+* [Video Series: Create an 11ty Theme from a free set of HTML templates](https://www.youtube.com/playlist?list=PLOSLUtJ_J3rrJ1R1qEf8CCEpV3GgbJGNr)
 
 ## Working with Git
 
