@@ -17,6 +17,10 @@
       "section": "Lesson Plans",
       "topics": [
         {
+          "title": "02 Source Control",
+          "slug": "git"
+        },
+        {
           "title": "01 Induction",
           "slug": "induction"
         }
