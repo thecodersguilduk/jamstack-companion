@@ -1,8 +1,12 @@
 {
   "sidebar": [
     {
-      "section": "Info",
+      "section": "Info & Resources",
       "topics": [
+        {
+          "title": "Links",
+          "slug": "links"
+        },
         {
           "title": "About the Course",
           "slug": "about"
