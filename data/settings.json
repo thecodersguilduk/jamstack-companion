@@ -17,6 +17,10 @@
       "section": "Lesson Plans",
       "topics": [
         {
+          "title": "05 Static Site Generators",
+          "slug": "ssg"
+        },
+        {
           "title": "06 Git Workflows",
           "slug": "git-workflows"
         },
