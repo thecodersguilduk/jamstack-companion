@@ -17,16 +17,8 @@
       "section": "Lesson Plans",
       "topics": [
         {
-          "title": "Fundamentals ",
-          "slug": "fundamentals "
-        },
-        {
-          "title": "The JAMStack",
-          "slug": "jamstack"
-        },
-        {
-          "title": "Solving Problems with JavaScript",
-          "slug": "javascript"
+          "title": "01 Induction",
+          "slug": "induction"
         }
       ]
     },
