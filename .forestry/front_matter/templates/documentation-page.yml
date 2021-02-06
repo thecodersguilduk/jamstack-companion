@@ -18,6 +18,7 @@ pages:
 - docs/01-induction.md
 - docs/02-source-control.md
 - docs/06-working-with-git.md
+- docs/08-content-management.md
 - docs/09-programming-concepts.md
 - docs/10-11-functions-control-flow.md
 - docs/12-pseudocode-comments.md
