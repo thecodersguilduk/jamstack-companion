@@ -4,16 +4,16 @@
       "section": "Info & Resources",
       "topics": [
         {
-          "title": "Interview Questions",
-          "slug": "interview-questions"
-        },
-        {
           "title": "About the Course",
           "slug": "about"
         },
         {
           "title": "Help and Feedback",
           "slug": "feedback"
+        },
+        {
+          "title": "Interview Questions",
+          "slug": "interview-questions"
         },
         {
           "title": "Links",
