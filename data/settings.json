@@ -17,6 +17,18 @@
       "section": "Lesson Plans",
       "topics": [
         {
+          "title": "01 Induction",
+          "slug": "induction"
+        },
+        {
+          "title": "02 Source Control",
+          "slug": "git"
+        },
+        {
+          "title": "03 Semantic HTML & Accessibility",
+          "slug": "a11y"
+        },
+        {
           "title": "04 Frameworks",
           "slug": "frameworks"
         },
@@ -55,14 +67,6 @@
         {
           "title": "15/16 The DOM",
           "slug": "the-dom"
-        },
-        {
-          "title": "01 Induction",
-          "slug": "induction"
-        },
-        {
-          "title": "02 Source Control",
-          "slug": "git"
         }
       ]
     },
