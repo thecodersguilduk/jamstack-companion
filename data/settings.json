@@ -1,7 +1,7 @@
 {
   "sidebar": [
     {
-      "section": "Info",
+      "section": "Info & Resources",
       "topics": [
         {
           "title": "About the Course",
@@ -10,6 +10,14 @@
         {
           "title": "Help and Feedback",
           "slug": "feedback"
+        },
+        {
+          "title": "Interview Questions",
+          "slug": "interview-questions"
+        },
+        {
+          "title": "Links",
+          "slug": "links"
         }
       ]
     },
@@ -88,19 +96,6 @@
         {
           "title": "Project Ideas",
           "slug": "projects"
-        }
-      ]
-    },
-    {
-      "section": "Resources",
-      "topics": [
-        {
-          "title": "Interview Questions",
-          "slug": "interview-questions"
-        },
-        {
-          "title": "freeCodeCamp",
-          "slug": "freecodecamp"
         }
       ]
     }
