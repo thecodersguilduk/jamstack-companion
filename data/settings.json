@@ -17,6 +17,10 @@
       "section": "Lesson Plans",
       "topics": [
         {
+          "title": "06 Git Workflows",
+          "slug": "git-workflows"
+        },
+        {
           "title": "07 Form Processing",
           "slug": "from-processing"
         },
