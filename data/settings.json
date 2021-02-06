@@ -17,6 +17,10 @@
       "section": "Lesson Plans",
       "topics": [
         {
+          "title": "09 Programming Concepts",
+          "slug": "programming-concepts"
+        },
+        {
           "title": "10/11 Functions & Control Flow",
           "slug": "functions"
         },
