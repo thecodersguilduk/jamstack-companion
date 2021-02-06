@@ -17,6 +17,10 @@
       "section": "Lesson Plans",
       "topics": [
         {
+          "title": "13/14 Loops, Arrays and Objects",
+          "slug": "loops-arrays-objects"
+        },
+        {
           "title": "15/16 The DOM",
           "slug": "the-dom"
         },
