@@ -4,8 +4,8 @@
       "section": "Info & Resources",
       "topics": [
         {
-          "title": "Links",
-          "slug": "links"
+          "title": "Interview Questions",
+          "slug": "interview-questions"
         },
         {
           "title": "About the Course",
@@ -14,6 +14,10 @@
         {
           "title": "Help and Feedback",
           "slug": "feedback"
+        },
+        {
+          "title": "Links",
+          "slug": "links"
         }
       ]
     },
