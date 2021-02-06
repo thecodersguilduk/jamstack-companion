@@ -17,6 +17,10 @@
       "section": "Lesson Plans",
       "topics": [
         {
+          "title": "10/11 Functions & Control Flow",
+          "slug": "functions"
+        },
+        {
           "title": "12 Pseudocode & Comments",
           "slug": "pseudocode-comments"
         },
