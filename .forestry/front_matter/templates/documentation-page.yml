@@ -15,6 +15,7 @@ fields:
   name: slug
   label: slug
 pages:
+- docs/01-induction.md
 - docs/06-working-with-git.md
 - docs/editing-in-forestry.md
 - docs/the-jamstack.md
