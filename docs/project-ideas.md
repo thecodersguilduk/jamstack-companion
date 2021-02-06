@@ -6,4 +6,4 @@ slug: projects
 ---
 ## JAMStack Companion
 
-Rebuild this site using different frameworks - you can copy all the .MD files from this repo to give you a head start.
+Rebuild this site using different frameworks - you can copy all the .MD files from this site's repo on Github to give you a head start.
