@@ -17,6 +17,10 @@
       "section": "Lesson Plans",
       "topics": [
         {
+          "title": "12 Pseudocode & Comments",
+          "slug": "pseudocode-comments"
+        },
+        {
           "title": "13/14 Loops, Arrays and Objects",
           "slug": "loops-arrays-objects"
         },
