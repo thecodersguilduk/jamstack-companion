@@ -17,6 +17,10 @@
       "section": "Lesson Plans",
       "topics": [
         {
+          "title": "04 Frameworks",
+          "slug": "frameworks"
+        },
+        {
           "title": "05 Static Site Generators",
           "slug": "ssg"
         },
