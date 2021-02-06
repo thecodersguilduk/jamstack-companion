@@ -17,16 +17,56 @@
       "section": "Lesson Plans",
       "topics": [
         {
-          "title": "Fundamentals ",
-          "slug": "fundamentals "
+          "title": "01 Induction",
+          "slug": "induction"
         },
         {
-          "title": "The JAMStack",
-          "slug": "jamstack"
+          "title": "02 Source Control",
+          "slug": "git"
         },
         {
-          "title": "Solving Problems with JavaScript",
-          "slug": "javascript"
+          "title": "03 Semantic HTML & Accessibility",
+          "slug": "a11y"
+        },
+        {
+          "title": "04 Frameworks",
+          "slug": "frameworks"
+        },
+        {
+          "title": "05 Static Site Generators",
+          "slug": "ssg"
+        },
+        {
+          "title": "06 Git Workflows",
+          "slug": "git-workflows"
+        },
+        {
+          "title": "07 Form Processing",
+          "slug": "from-processing"
+        },
+        {
+          "title": "08 Content Management",
+          "slug": "content-management"
+        },
+        {
+          "title": "09 Programming Concepts",
+          "slug": "programming-concepts"
+        },
+        {
+          "title": "10/11 Functions & Control Flow",
+          "slug": "functions"
+        },
+        {
+          "title": "12 Pseudocode & Comments",
+          "slug": "pseudocode-comments"
+        },
+        {
+          "title": "13/14 Loops, Arrays and Objects",
+          "slug": "loops-arrays-objects"
+        },
+        {
+          "title": "15/16 The DOM",
+          "slug": "the-dom"
         }
       ]
     },
