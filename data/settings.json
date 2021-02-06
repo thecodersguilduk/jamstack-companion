@@ -17,6 +17,10 @@
       "section": "Lesson Plans",
       "topics": [
         {
+          "title": "08 Content Management",
+          "slug": "content-management"
+        },
+        {
           "title": "09 Programming Concepts",
           "slug": "programming-concepts"
         },
