@@ -10,13 +10,13 @@
 </template>
 
 <script>
-import { info, clipboard, code } from 'vue-feather-icons'
+import { infoIcon, clipboardIcon, codeIcon } from 'vue-feather-icons'
 
 export default {
   components: {
-    info,
-    clipboard,
-    code
+    infoIcon,
+    clipboardIcon,
+    codeIcon
   },
   props: {
     link: {
