@@ -10,6 +10,8 @@ slug: About
 * **A**PIs
 * **M**arkup
 
+  ![JavaScript, APIs Markup](/what-is-the-jamstack.jpg)
+
 Being able to build apps using the JAMStack is a skill-set which is in high demand among employers right now, and that demand is only set to continue rising in 2021 and beyond.
 
 With that in mind, this course is ideal for anyone with a basic knowledge of HTML and CSS looking to embrace the future of coding and move forward into a more engaging and successful career.
