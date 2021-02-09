@@ -4,7 +4,6 @@ date: 2021-02-06
 slug: ssg
 
 ---
-
 Hello World
 
 This session will go into details about static site builders and give an example of just how quickly you can put **something** online using free technologies. We will be using the JAMStack website to create an example 11ties site.
@@ -19,9 +18,9 @@ Following this training you will be able to: Use Jamstack to create new projects
 
 ## **Learner Requirements**
 
-VS code
-
-Github desktop
+1. VS code
+2. Github desktop
+3. GitHub Account
 
 ## **Outline**
 
@@ -35,13 +34,18 @@ Github desktop
 
 ### **Mandatory**
 
-Deploy a JAMstack, 11ty, netlify solution
+1. Deploy a JAMstack, 11ty, netlify solution
+2. Install your site locally and run 
+3. Complete tasks 1 and 3 from the yellow box on the homepage
+4. Add a new blog post - check the Front Matter at the top of the .md file
 
 ### **Additional**
 
-N/A
+1. Add some new pages to your site with links in the navigation
+2. Commit your changes to git
+3. Push your changes to your master branch to deploy your site to netlify
 
-## **Resources / Reference**
+   ## **Resources / Reference**
 
 * [Session Slides: SSG](https://docs.google.com/presentation/d/1EHVUe03PC37XndSS9tmC3nQIyFyaKFxz89eaJZ77mZM/edit?usp=sharing)
 * [https://jamstack.org/generators/](https://jamstack.org/generators/ "https://jamstack.org/generators/")
