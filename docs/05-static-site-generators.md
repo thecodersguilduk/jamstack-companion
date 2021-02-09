@@ -4,6 +4,9 @@ date: 2021-02-06
 slug: ssg
 
 ---
+
+Hello World
+
 This session will go into details about static site builders and give an example of just how quickly you can put **something** online using free technologies. We will be using the JAMStack website to create an example 11ties site.
 
 ## **Why this is important**
@@ -33,8 +36,6 @@ Github desktop
 ### **Mandatory**
 
 Deploy a JAMstack, 11ty, netlify solution
-
-Add the bootstrap work from the previous lesson to your netlify site
 
 ### **Additional**
 
