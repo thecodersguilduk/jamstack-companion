@@ -35,7 +35,7 @@ Following this training you will be able to: Use Jamstack to create new projects
 ### **Mandatory**
 
 1. Deploy a JAMstack, 11ty, netlify solution
-2. Install your site locally and run 
+2. Install your site locally and run
 3. Complete tasks 1 and 3 from the yellow box on the homepage
 4. Add a new blog post - check the Front Matter at the top of the .md file
 
@@ -50,7 +50,6 @@ Following this training you will be able to: Use Jamstack to create new projects
 * [Session Slides: SSG](https://docs.google.com/presentation/d/1EHVUe03PC37XndSS9tmC3nQIyFyaKFxz89eaJZ77mZM/edit?usp=sharing)
 * [https://jamstack.org/generators/](https://jamstack.org/generators/ "https://jamstack.org/generators/")
 * [Learn JAMstack with a free 3.5 hour video of demos and examples](https://www.netlify.com/blog/2020/03/12/learn-jamstack-with-a-free-3.5-hour-video-of-demos-and-examples/)
-* [11ty Tutorial level 1](https://www.zachleat.com/web/eleventy-tutorial-level-1/)
 * [Video Series: Create an 11ty Theme from a free set of HTML templates](https://www.youtube.com/playlist?list=PLOSLUtJ_J3rrJ1R1qEf8CCEpV3GgbJGNr)
 * [Build your own Blog from Scratch using Eleventy](https://www.filamentgroup.com/lab/build-a-blog/)
 * [Let’s Learn Eleventy! Boost your Jamstack skills with 11ty](https://www.netlify.com/blog/2020/04/09/lets-learn-eleventy-boost-your-jamstack-skills-with-11ty/)
