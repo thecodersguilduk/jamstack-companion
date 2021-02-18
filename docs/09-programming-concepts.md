@@ -33,11 +33,32 @@ Github desktop
 
 ### **Mandatory**
 
-1. Write a procedural javascript function.
+**1 We’ll make a program to calculate a tip**
+
+1. Create variables for the pre-tip total and the tip percentage
+2. Calculate the new total
+3. Output a sentence to the page - something like:
+
+Your total bill, with tip, is £35.45
+
+BONUS POINTS:
+
+1. Use toFixed() to round the output to 2 decimal places
+2. Display the tip amount in the output as well
+
+**2 Extend the Tip program**
+
+1. Create variables for the pre-tip total and the tip percentage
+2. Calculate the new total
+3. Output a sentence to the page - something like:
+
+“Your total bill, with tip, is £35.45”
+
+Extension: round the figure to 2 DP and display the tip amount.
 
 ### **Additional**
 
-N/A
+Make a Procedural Function in Javascript.
 
 ## **Resources / Reference**
 
