@@ -33,7 +33,7 @@ Github desktop
 
 ### **Mandatory**
 
-Create a HTML page using bootstrap to advertise your favorite band.
+Create a HTML page using bootstrap to advertise your favourite band.
 
 * The page should include a header, hero, main content, sidebar and footer.
 * The header should contain the band logo.
