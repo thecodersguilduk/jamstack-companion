@@ -34,7 +34,17 @@ Github desktop
 
 ### **Mandatory**
 
-N/A
+**1. Add a netlify CMS to your site**
+
+1. Add Netlify CMS to your site.
+2. Add variables to your template file to output the data
+3. Test the site locally to confirm the updates work.
+4. Commit and push the work to your live site.
+
+**2. Add more page types and data**
+
+1. Play with Netlify CMS and add more page types and data
+2. Create more templates for the page types
 
 ### **Additional**
 
