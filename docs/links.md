@@ -37,3 +37,16 @@ slug: links
 * [https://github.com/](https://github.com/ "https://github.com/")
 * [https://github.com/jlord/git-it-electron](https://github.com/jlord/git-it-electron "https://github.com/jlord/git-it-electron")
 * [https://desktop.github.com/](https://desktop.github.com/ "https://desktop.github.com/")
+
+## **Twitter accounts to follow**
+
+We will expand this list as time goes by. 
+
+Note any content on the below accounts isn't created by The Coders Guild.
+
+* [**https://twitter.com/GatsbyJS**](https://twitter.com/GatsbyJS "https://twitter.com/GatsbyJS")
+* [https://twitter.com/eleven_ty](https://twitter.com/eleven_ty "https://twitter.com/eleven_ty")
+* [https://twitter.com/tailwindcss](https://twitter.com/tailwindcss "https://twitter.com/tailwindcss")
+* [https://twitter.com/adamwathan](https://twitter.com/adamwathan "https://twitter.com/adamwathan") - Tailwind creator
+* [https://twitter.com/Netlify](https://twitter.com/Netlify "https://twitter.com/Netlify")
+* [https://twitter.com/zachleat](https://twitter.com/zachleat "https://twitter.com/zachleat") - Creator of 11ty
