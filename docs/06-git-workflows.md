@@ -33,7 +33,18 @@ Github desktop
 
 ### **Mandatory**
 
-N/A
+**Add bootstrap to your 11ty site.**
+
+* Create a new branch
+* Add bootstrap
+* Commit the work
+* Merge the branches
+* Push the work to master
+
+**Update your site making detailed commits**
+
+* Update your site to have a bootstrap header and footer area/ layout in general.
+* Add some extra components to your site with dummy content. 
 
 ### **Additional**
 
