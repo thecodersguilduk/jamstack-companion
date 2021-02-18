@@ -31,7 +31,9 @@ Learners must download the github desktop application in order to complete the h
 
 ### **Mandatory**
 
-Create a markdown profile using github pages.
+Get Git installed and working on your machine
+
+Create a markdown profile using github pages. ([https://bootcamp.wdan.uk/projects/html-css/profile](https://bootcamp.wdan.uk/projects/html-css/profile "https://bootcamp.wdan.uk/projects/html-css/profile"))
 
 Complete the git-it electron challenges. [https://github.com/jlord/git-it-electron](https://github.com/jlord/git-it-electron "https://github.com/jlord/git-it-electron")
 
