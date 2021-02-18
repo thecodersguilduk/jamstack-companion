@@ -59,4 +59,5 @@ Find the JS solution needed to add a checkbox to formspree and post the data to 
 
 ## **Resources / Reference**
 
-N/A
+* [https://docs.netlify.com/forms/setup/](https://docs.netlify.com/forms/setup/ "https://docs.netlify.com/forms/setup/")
+* [https://github.com/thecodersguilduk/netlify-form-simple-js-validation](https://github.com/thecodersguilduk/netlify-form-simple-js-validation "https://github.com/thecodersguilduk/netlify-form-simple-js-validation")
