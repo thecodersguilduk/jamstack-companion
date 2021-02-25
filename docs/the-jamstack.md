@@ -29,7 +29,7 @@ For ease of populating your kanban board the mandatory challenges are listed bel
 15. "Shall I wear a coat?" function (Lesson 10 - Functions and Control Flow)
 16. Percentage Calculator (Lesson 11 - Functions Practical)
 17. Switch Statements (Lesson 11 - Functions Practical)
-18. Build a calculation function (Lesson 11 - Functions Practical) 
+18. Build a calculation function (Lesson 11 - Functions Practical)
 
 ## **Recommended Challenge**
 
@@ -46,3 +46,16 @@ Try to make sure it is:
 * Included some interactivity using Javascript.
 
 Having a website to share will really help when looking to get into the web industry.
+
+Few examples by experienced developers:
+
+* [https://mattfarley.ca/](https://mattfarley.ca/ "https://mattfarley.ca/")
+* [https://jacekjeznach.com/](https://jacekjeznach.com/ "https://jacekjeznach.com/")
+
+**Content ideas:**
+
+* About/Profile
+* Skills (both technical and other)
+* Experience
+* CV/Resume
+* Contact form
