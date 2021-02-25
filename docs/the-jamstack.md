@@ -33,7 +33,7 @@ For ease of populating your kanban board the mandatory challenges are listed bel
 
 ## **Recommended Challenge**
 
-To use the skills you have picked up through out the sessions of the course and create you self a portfolio website.
+To use the skills you have picked up through out the sessions of the course and create you self a portfolio/profile website.
 
 This will be a great showcase of you skills you have picked up and give you something to show when applying for jobs and within interviews.
 
